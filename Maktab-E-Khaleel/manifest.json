@@ -1,0 +1,10 @@
+{
+  "name": "Maktab-E-Khaleel — Smart Maktab Management System",
+  "short_name": "Maktab-E-Khaleel",
+  "description": "Android-first Smart Maktab Management System for students, fast attendance, fees, staff, and reports.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070a12",
+  "theme_color": "#1e3a8a",
+  "orientation": "portrait-primary"
+}
